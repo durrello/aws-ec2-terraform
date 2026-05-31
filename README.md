@@ -1,3 +1,5 @@
+> **Note:** This standalone repo has been consolidated into [terraform-aws-reference-architecture](https://github.com/durrello/terraform-aws-reference-architecture), which collects these AWS Terraform examples into one progressive, CI-validated reference. This repo is kept for history.
+
 # aws-ec2-terraform
 
 Terraform configuration that builds a self-contained AWS environment from scratch — a VPC, internet
